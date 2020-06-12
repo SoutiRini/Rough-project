@@ -7,5 +7,5 @@ To run the project, follow these steps
     Error: input file was not specified.
     For usage information: z3 -h
 If you do, z3 installation was successful.
-3. go to terminal and run 'sh 
+3. go to terminal and run 'sh gen_gcov_tests.sh'
 4. Run Test_optimizer.py
